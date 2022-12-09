@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\content",
+    "\\content\\posts",
+    "\\src",
+    "\\src\\admin",
+    "\\src\\components",
+    "\\src\\layouts",
+    "\\src\\pages",
+    "\\src\\templates",
+    "\\static"
+  ],
+  "SelectedNode": "\\static\\robots.txt",
+  "PreviewInSolutionExplorer": false
+}
